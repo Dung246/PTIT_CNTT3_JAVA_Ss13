@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b644c10-3ed2-4269-bb86-f832c7a5f172" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b1/B1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b2/B2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b3/B3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b4/B4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b5/B5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b6/B6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ktdg/src/btth.java" beforeDir="false" afterPath="$PROJECT_DIR$/ktdg/src/btth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +57,7 @@
   <component name="RunManager">
     <configuration name="B2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="b2.B2" />
-      <module name="PTIT_CNTT3_JAVA_Ss11" />
+      <module name="PTIT_CNTT3_JAVA_Ss13" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="b2.*" />
@@ -75,6 +67,17 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PTIT_CNTT3_JAVA_Ss13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PTIT_CNTT3_JAVA_Ss13" />
+      <option name="filePath" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
